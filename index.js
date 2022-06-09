@@ -14,6 +14,6 @@ function setBestCustomer(){
      return bestCustomer = 'maybe bob'
  }
 function changeLeastFavoriteCustomer(){
-    return  leastFavouriteCustomer = 'Albert'
+    return  leastFavouriteCustomer = 'Brook'
 }
  
